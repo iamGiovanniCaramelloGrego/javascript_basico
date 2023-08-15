@@ -6,4 +6,4 @@ https://iamgiovannicaramellogrego.github.io/javascript_basico/exemplo/aula1
 funções
 https:////iamgiovannicaramellogrego.github.io/javascript_basico/FUNCOES/funcoes
 
-https:////iamgiovannicaramellogrego.github.io/javascript_basico/aula1/aula.html
+https:////iamgiovannicaramellogrego.github.io/javascript_basico/aula1/aula
