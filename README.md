@@ -7,4 +7,4 @@ funções
 https:////iamgiovannicaramellogrego.github.io/javascript_basico/FUNCOES/funcoes
 
 cadastro
-https:////iamgiovannicaramellogrego.github.io/javascript_basico/aula1/aula1
+https:////iamgiovannicaramellogrego.github.io/javascript_basico/aula1/aula
