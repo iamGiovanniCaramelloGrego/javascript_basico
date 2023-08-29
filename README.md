@@ -8,3 +8,6 @@ https://iamgiovannicaramellogrego.github.io/javascript_basico/FUNCOES/funcoes
 
 cadastro
 https://iamgiovannicaramellogrego.github.io/javascript_basico/aula1/aula
+
+imc
+https://github.com/iamGiovanniCaramelloGrego/javascript_basico/imc/imc
