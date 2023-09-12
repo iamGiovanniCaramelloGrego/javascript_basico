@@ -13,4 +13,4 @@ imc
 https://iamgiovannicaramellogrego.github.io/javascript_basico/imc/imc1
 
 LAÇOS
-https://iamgiovannicaramellogrego.github.io/javascript_basico/LAÇOS/index
+https://iamgiovannicaramellogrego.github.io/javascript_basico/laços/tabuada
