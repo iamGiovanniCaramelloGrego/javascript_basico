@@ -7,7 +7,10 @@ funções
 https://iamgiovannicaramellogrego.github.io/javascript_basico/FUNCOES/funcoes
 
 cadastro
-
+https://iamgiovannicaramellogrego.github.io/javascript_basico/AULA1/aula1
 
 imc
 https://iamgiovannicaramellogrego.github.io/javascript_basico/imc/imc1
+
+LAÇOS
+https://iamgiovannicaramellogrego.github.io/javascript_basico/LAÇOS/index
