@@ -10,7 +10,7 @@ cadastro
 https://iamgiovannicaramellogrego.github.io/javascript_basico/AULA1/aula1
 
 imc
-
+https://iamgiovannicaramellogrego.github.io/javascript_basico/imc2/imc
 
 LAÇOS
 https://iamgiovannicaramellogrego.github.io/javascript_basico/laços/tabuada
