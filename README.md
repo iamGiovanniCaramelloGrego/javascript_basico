@@ -17,3 +17,6 @@ https://iamgiovannicaramellogrego.github.io/javascript_basico/laços/tabuada.htm
 
 OBJETOS ORIENTADOS
 https://iamgiovannicaramellogrego.github.io/javascript_basico/objori/inicio.html
+
+Imagens_Script
+https://iamgiovannicaramellogrego.github.io/javascript_basico/Script_img/index.html
