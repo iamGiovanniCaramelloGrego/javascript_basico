@@ -12,13 +12,13 @@ form.addEventListener("submit", function (e) {
     // Obtemos os valores dos campos de entrada do formulário.
     const firstName = document.getElementById("firstName").value;
     const lastName = document.getElementById("lastName").value;
-    const language = document.getElementById("language").value;
+    const language = document.getElementById("age").value;
 
     // Criamos um novo objeto de pessoa com os valores do formulário.
     const newPerson = {
         firstName: firstName,
         lastName: lastName,
-        language: language
+        language: age
     };
 
     // Adicionamos o novo objeto de pessoa ao array de pessoas cadastradas.
@@ -42,6 +42,6 @@ function displayAllDetails() {
         const cell3 = row.insertCell(2);
         cell1.textContent = person.firstName;
         cell2.textContent = person.lastName;
-        cell3.textContent = person.language;
+        cell3.textContent = person.age;
     }
 }
