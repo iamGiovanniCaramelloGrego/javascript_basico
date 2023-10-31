@@ -20,3 +20,6 @@ https://iamgiovannicaramellogrego.github.io/javascript_basico/objori/inicio.html
 
 Imagens_Script
 https://iamgiovannicaramellogrego.github.io/javascript_basico/Script_img/index.html
+
+objori2
+https://iamgiovannicaramellogrego.github.io/javascript_basico/objori2/index.html
