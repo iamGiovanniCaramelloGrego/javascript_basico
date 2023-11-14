@@ -23,3 +23,6 @@ https://iamgiovannicaramellogrego.github.io/javascript_basico/Script_img/index.h
 
 objori2
 https://iamgiovannicaramellogrego.github.io/javascript_basico/objori2/index.html
+
+regex video
+https://www.youtube.com/watch?v=1H-vSHVOxoU
