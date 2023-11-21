@@ -1,38 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link rel="stylesheet" href="style.css">
-    <title>REGEX</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="style.css">
+  <title>Formulário de Cadastro</title>
+  <!-- Incluir jQuery e a biblioteca de máscara -->
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.16/jquery.mask.min.js"></script>
+  <!-- Incluir seu script de validação -->
+  <script src="seu_script_de_validacao.js"></script>
+  <style>
+    /* Adicione estilos se necessário */
+  </style>
 </head>
 <body>
-    <section>
-        <div class="form-box">
-            <div class="form-value">
-                <form action="">
-                    <h2>LOGIN</h2>
-                    <div class="inputbox">
-                        <ion-icon name="mail-outline"></ion-icon>
-                        <input type="email" required>
-                        <label for="">Email</label>
-                    </div>
-                    <div class="inputbox">
-                        <ion-icon name="lock-closed-outline"></ion-icon>
-                        <input type="password" required>
-                        <label for="">Password</label>
-                    </div>
-                    <div class="forget">
-                        <label for=""><input type="checkbox">Remember Me</label>
-                        <a href="#">Forget Password</a>
-                    </div>
-                    <button>Log In</button>
-                    <div class="register">
-                        <p>dont have a account <a href="#">Register</a></p>
-                    </div>
-                </form>
-            </div>
-        </div>
-    </section>
-    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
-<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+
+<h2>Formulário de Cadastro</h2>
+
+<form onsubmit="return validarFormulario()">
+  <div>
+    <label for="nome">Nome:</label>
+    <input type="text" id="nome" name="nome">
+  </div>
+  <div>
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email">
+  </div>
+  <div>
+    <label for="dataNascimento">Data de Nascimento:</label>
+    <input type="text" id="dataNascimento" name="dataNascimento">
+  </div>
+  <div>
+    <label for="telefone">Telefone:</label>
+    <input type="text" id="telefone" name="telefone">
+  </div>
+  <div>
+    <label for="cpf">CPF:</label>
+    <input type="text" id="cpf" name="cpf">
+  </div>
+  <button type="submit">Enviar</button>
+</form>
+
 </body>
 </html>
